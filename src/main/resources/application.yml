@@ -1,0 +1,7 @@
+spring:
+  datasource:
+    driverClassName: org.mariadb.jdbc.Driver
+    jdbcUrl: jdbc:mariadb://localhost:3306/demo
+    username: 
+    password:
+    maximumPoolSize: 5
